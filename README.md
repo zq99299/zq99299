@@ -4,9 +4,8 @@
 
 本仓库是主要是一些学习笔记相关的，零散的、系列成套的笔记，[详看该导航](https://github.com/zq99299/repository-summary)
 
-📫 如何联系我: 
-  - [![QQ](https://img.shields.io/badge/QQ-99299684-yellow?logo=Tencent-QQ)](http://wpa.qq.com/msgrd?v=3&uin=99299684&site=qq&menu=yes) 
-  - [![CSDN](https://img.shields.io/badge/CSDN-%20-yellow?logo=bloglovin)](https://blog.csdn.net/mr_zhuqiang) 
+[![QQ](https://img.shields.io/badge/QQ-99299684-yellow?logo=Tencent-QQ)](http://wpa.qq.com/msgrd?v=3&uin=99299684&site=qq&menu=yes) 
+[![CSDN](https://img.shields.io/badge/CSDN-%20-yellow?logo=bloglovin)](https://blog.csdn.net/mr_zhuqiang) 
 
 <!--
 **zq99299/zq99299** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
