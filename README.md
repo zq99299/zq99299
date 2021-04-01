@@ -1,3 +1,4 @@
+<!--
 <p align="center">
     <a href="https://github.com/zq99299/repository-summary" target="_blank">
      <img width="300" src="./BIGMLOGO.gif" alt="logo">
@@ -6,6 +7,7 @@
 </p>
 
 <a href="https://github.com/zq99299"><img align='right' src="https://github-readme-stats.vercel.app/api?username=zq99299&show_icons=true&&theme=default&locale=cn"></a>
+-->
 
 ### Hi there 👋
 
