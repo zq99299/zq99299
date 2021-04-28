@@ -14,10 +14,10 @@
 
 本仓库是主要是一些学习笔记相关的，零散的、系列成套的笔记，[详看该导航](https://github.com/zq99299/repository-summary)
 
-[![QQ](https://img.shields.io/badge/QQ-99299684-yellow?logo=Tencent-QQ)](http://wpa.qq.com/msgrd?v=3&uin=99299684&site=qq&menu=yes) 
-[![CSDN](https://img.shields.io/badge/CSDN-%20-yellow?logo=bloglovin)](https://blog.csdn.net/mr_zhuqiang) 
-[![GITEE](https://img.shields.io/badge/Gitee-%20-yellow?logo=Gitee)](https://gitee.com/zhuqiang) 
-[![语雀](https://img.shields.io/badge/语雀-%20-yellow?logo=)](https://www.yuque.com/mrcode.cn) 
+[![QQ](https://img.shields.io/badge/QQ-99299684-67ab82?logo=Tencent-QQ)](http://wpa.qq.com/msgrd?v=3&uin=99299684&site=qq&menu=yes) 
+[![CSDN](https://img.shields.io/badge/CSDN-%20-67ab82?logo=bloglovin)](https://blog.csdn.net/mr_zhuqiang) 
+[![GITEE](https://img.shields.io/badge/Gitee-%20-67ab82?logo=Gitee)](https://gitee.com/zhuqiang) 
+[![语雀](https://img.shields.io/badge/语雀-%20-67ab82?logo=)](https://www.yuque.com/mrcode.cn) 
 
 <!--
 **zq99299/zq99299** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
