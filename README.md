@@ -16,7 +16,7 @@
 
 [![QQ](https://img.shields.io/badge/QQ-99299684-67ab82?logo=Tencent-QQ)](http://wpa.qq.com/msgrd?v=3&uin=99299684&site=qq&menu=yes) 
 [![CSDN](https://img.shields.io/badge/CSDN-%20-67ab82?logo=bloglovin)](https://blog.csdn.net/mr_zhuqiang) 
-[![GITEE](https://img.shields.io/badge/Gitee-%20-67ab82?logo=Gitee)](https://gitee.com/zhuqiang) 
+[![GitHub](https://img.shields.io/badge/GitHub-%20-67ab82?logo=github)](https://github.com/zq99299) 
 [![语雀](https://img.shields.io/badge/yuque-语雀-67ab82?logo=)](https://www.yuque.com/mrcode.cn) 
 
 <!--
